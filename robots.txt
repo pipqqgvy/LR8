@@ -1,1 +1,8 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
 
+Allow: /
+
+Sitemap: https://pipqqgvy.github.io/LR8/sitemap.xml
